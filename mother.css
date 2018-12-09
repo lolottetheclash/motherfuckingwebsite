@@ -1,0 +1,23 @@
+/*fichier CSS lié au site Motherfuckingwebsite, lié à mother.html*/
+
+
+
+
+/* mots à mettre en gras avec la balise span dans code html*/
+
+.engras
+
+{
+	font-weight: bold;
+}
+
+
+
+/*enlever les points devant la liste*/
+
+.liste
+{
+
+	list-style-type: none;
+}
+
